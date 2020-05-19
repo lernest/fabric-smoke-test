@@ -8,7 +8,7 @@ In this example, we will create a 'patient' and add it to the ledger. In this ca
 
 Clone the repo, then enter the project directory.
 
-`git clone www.github.com/lernest/fabric-smoke-test`
+`git clone https://www.github.com/lernest/fabric-smoke-test`
 
 `cd fabric-smoke-test`
 
