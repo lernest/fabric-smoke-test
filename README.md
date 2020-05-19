@@ -8,13 +8,9 @@ In this example, we will create a 'patient' and add it to the ledger. In this ca
 
 Clone the repo, then enter the project directory.
 
-`git clone https://gitlab.healthcareit.net/Liam.Ernest/fabric-smoke-test`
+`git clone https://github.com/fabric-smoke-test`
 
 `cd fabric-smoke-test`
-
-Initialize the keys.
-
-`./init_keys`
 
 The commands below will take you through the following steps.
 
